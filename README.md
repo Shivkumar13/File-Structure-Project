@@ -1,4 +1,4 @@
-# File-Structure-Project
+# Movie Record Management System
 
 Movie is something for which everyone has passion these days. But the major problem is that it becomes very tough to maintain such old movie records and retrieve such records, so to overcome this problem we introduce Movie Management System.
 The Movie management system is a stand-alone application. It provides a user-friendly, interactive Menu Driven Interface (MDI).All data is stored in files for persistence. The application uses two files: a secondary index file, to store the primary index and a Data file, to store records pertaining to the Movie details, its routes and complete information regarding movie’s name and other details.</br>
